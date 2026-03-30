@@ -1,7 +1,7 @@
 # Digital Literacy Portfolio
 
 ## Student Details
-Name: Jivan Deshmukh
+Name: Jivan Deshmukh  
 Reg No: 25BSA10171
 Branch: B.Tech CSE (Cloud Computing and Automation)  
 Year: 1st Year  
