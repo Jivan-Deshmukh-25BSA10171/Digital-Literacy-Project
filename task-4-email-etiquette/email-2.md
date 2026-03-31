@@ -15,7 +15,6 @@ process for the same. I have attached my resume for your consideration.
 Thank you for your time and consideration. I look forward to hearing from you.
 
 Yours sincerely,
-
-Jivan Deshmukh
+  Jivan Deshmukh
 
 25BSA10171
