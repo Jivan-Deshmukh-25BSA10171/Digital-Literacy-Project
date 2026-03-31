@@ -12,22 +12,16 @@
 4. **Verify before sharing personal information**
    Never share OTPs, passwords, or personal details with anyone—even if they claim to be from your bank or college.
 
-5. **UPI Safety Tip #1: Never enter your UPI PIN to receive money**
-   You only need a PIN to *send* money. If someone asks for your PIN to “receive” funds, it’s a scam.
-
-6. **UPI Safety Tip #2: Check collect requests carefully**
-   Always verify the sender’s name and purpose before approving any “Request Money” notification.
-
-7. **Avoid public Wi-Fi for sensitive transactions**
+5. **Avoid public Wi-Fi for sensitive transactions**
    Do not access banking apps or make payments over unsecured public networks in cafes or campuses.
 
-8. **Keep your devices updated and secure**
+6. **Keep your devices updated and secure**
    Install updates regularly and use antivirus software to protect against malware.
 
-9. **Be cautious on social media**
+7. **Be cautious on social media**
    Limit what you share publicly (location, phone number, daily routine) to avoid misuse.
 
-10. **Log out from shared devices**
+8. **Log out from shared devices**
     Always sign out of your accounts when using college computers or cyber cafes.
 
 ---
