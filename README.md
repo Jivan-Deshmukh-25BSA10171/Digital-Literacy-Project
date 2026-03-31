@@ -27,7 +27,7 @@ Drafted professional emails and created a social media checklist.
 Created a phishing case study and prevention checklist.
 
 ## Google Form Link
-https://forms.gle/
+https://forms.gle/gSZtUh7bqLmZBWuq6
 
 ## Repository Link
-https://github.com/
+https://github.com/Jivan-Deshmukh-25BSA10171/Digital-Literacy-Project
