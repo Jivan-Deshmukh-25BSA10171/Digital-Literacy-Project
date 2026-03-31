@@ -1,4 +1,4 @@
-Case Study: UPI / Online Payment Fraud
+### Case Study: UPI / Online Payment Fraud
 
 UPI (Unified Payments Interface) fraud is a rapidly growing cybercrime where attackers trick users into transferring money or revealing sensitive details. This crime typically begins when 
 a fraudster contacts a victim via phone, SMS, or messaging apps, pretending to be a bank official, customer support agent, or even a buyer/seller. First, the attacker builds trust by 
