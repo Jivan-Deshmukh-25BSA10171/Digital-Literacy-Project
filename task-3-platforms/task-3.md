@@ -4,3 +4,5 @@ Through this platform, I built a strong foundation in coding by regularly attemp
 understand concepts more clearly and improve my accuracy and speed. Using HackerRank will greatly benefit me academically, especially in subjects related to programming and computer science. 
 It will help me perform better in exams, assignments, and practicals by strengthening my coding skills. Additionally, it prepares me for future competitive exams and technical interviews. 
 Overall, this platform supports continuous learning and helps me become more confident in solving complex problems independently.
+
+I also created a Google Form titled "Digital Literacy Awareness Quiz" with five questions. The form includes multiple-choice and short-answer questions related to digital safety and online behavior. I linked the responses to a Google Sheet to track answers. https://forms.gle/gSZtUh7bqLmZBWuq6
