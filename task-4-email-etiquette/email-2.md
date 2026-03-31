@@ -1,4 +1,5 @@
 TO : intershipcoordinator.xyz@gmail.com
+
 Subject : Application for Summer Internship Opportunity
 
 Dear Sir/Madam,
