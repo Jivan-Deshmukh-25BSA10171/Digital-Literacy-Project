@@ -24,8 +24,6 @@
 8. **Log out from shared devices**
     Always sign out of your accounts when using college computers or cyber cafes.
 
----
-
 ### Report Cybercrime Immediately
 
 * **National Cyber Crime Portal:** [https://cybercrime.gov.in](https://cybercrime.gov.in)
